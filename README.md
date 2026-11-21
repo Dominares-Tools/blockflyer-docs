@@ -8,7 +8,7 @@ blockflyer takes a plain-English event description, has a model choose from ten 
 
 ## Get it
 
-Buy blockflyer at https://dominares.org/tools/blockflyer: one payment of $149, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the blockflyer command, a demo kit and four demo specs, and the full test suite. The Barlow font ships under the SIL Open Font License with its notice.
+Buy blockflyer at https://dominares.org/tools/blockflyer: one payment of $149, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the blockflyer command, a demo kit and four demo specs, and the test suite. The Barlow font ships under the SIL Open Font License with its notice.
 
 Requirements: Python 3.10 or newer (segno installs with it), and Chrome or Chromium to draw the PNG and PDF; without one the demo still writes the HTML. A model key only for the compose step.
 
